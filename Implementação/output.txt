@@ -1,0 +1,5 @@
+Bob: rich sad 
+Paul: millionaire normal 
+Mary: poor sad 
+Alice: poor sad 
+Julia: rich sad 
